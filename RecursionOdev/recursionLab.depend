@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1691144611 source:c:\codeblocks\recursionlab\1faktoriyel.c
+	<stdio.h>
+	"recursionUtil.h"
+
+1691353766 c:\codeblocks\recursionlab\recursionutil.h
+
+1691098803 source:c:\codeblocks\recursionlab\2rakamtoplam.c
+	<stdio.h>
+	<stdlib.h>
+	"recursionUtil.h"
+
+1691134517 source:c:\codeblocks\recursionlab\3teklisayitoplam.c
+	<stdio.h>
+	<stdlib.h>
+	"recursionUtil.h"
+
+1691132321 source:c:\codeblocks\recursionlab\4uslusayi.c
+	<stdio.h>
+	"recursionUtil.h"
+
+1691759620 source:c:\codeblocks\recursionlab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursionUtil.h"
+
+1691132717 source:c:\codeblocks\recursionlab\5asalkontrol.c
+	<stdio.h>
+	"recursionUtil.h"
+
+1691359477 source:c:\codeblocks\recursionlab\6dogalsayitoplam.c
+	<stdio.h>
+	"recursionUtil.h"
+
+1691145156 source:c:\codeblocks\recursionlab\7arraybuyukeleman.c
+	<stdio.h>
+	"recursionUtil.h"
+
+1691135581 source:c:\codeblocks\recursionlab\8fibonacci.c
+	<stdio.h>
+	"recursionUtil.h"
+
+1691135908 source:c:\codeblocks\recursionlab\9ucgensayilar.c
+	<stdio.h>
+	"recursionUtil.h"
+
+1691759620 source:c:\codeblocks\recursionlab\9tersmetin.c
+	<stdio.h>
+	<conio.h>
+
+1691145446 source:c:\codeblocks\recursionlab\10arrayelemantoplam.c
+	<stdio.h>
+
+1691145352 source:c:\codeblocks\recursionlab\a11yildizmetin.c
+	<stdio.h>
+	<stdbool.h>
+	"recursionUtil.h"
+
+1691135817 source:c:\codeblocks\recursionlab\ucgensayilar.c
+
